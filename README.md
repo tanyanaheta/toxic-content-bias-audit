@@ -17,6 +17,6 @@ This project evaluated the fairness of a pre-trained toxicity detection system (
 - Proposed mitigations: group-specific thresholds, data augmentation
 
 ## 🔗 Links
-- 🔍 [View Full Notebook (HTML)](rendered_html/bias_analysis.html)
-- 🧾 [Final Report (PDF)](report.pdf)
+- 🔍 [View Full Notebook (HTML)](bias_analysis.html)
+- 🧾 [Final Report (PDF)](BiasADSReport.pdf)
 - 🌐 [Portfolio](https://tanyanaheta.github.io)
