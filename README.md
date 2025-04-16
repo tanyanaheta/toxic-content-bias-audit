@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Overview
-This project evaluated the fairness of a pre-trained toxicity detection system (Detoxify) by measuring its performance across identity subgroups using the Civil Comments dataset. We analyzed disparities in false positive rates, recall, and fairness metrics like Equal Opportunity and Demographic Parity.
+This project evaluated the fairness of a pre-trained toxicity detection system (Detoxify) by measuring its performance across identity subgroups using the Civil Comments dataset. Analyzed disparities in false positive rates, recall, and fairness metrics like Equal Opportunity and Demographic Parity.
 
 ## 🧠 Techniques & Tools
 `Fairness Auditing` · `FPR/TPR Parity` · `Subgroup Analysis` · `Visualization` · `Pandas` · `Matplotlib` · `Jupyter`
